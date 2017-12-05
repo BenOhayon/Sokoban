@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ SokobanMilestone3.jar
+Class-Path: .
+Rsrc-Main-Class: boot.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
